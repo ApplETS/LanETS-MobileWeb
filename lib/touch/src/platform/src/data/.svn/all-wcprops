@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data
+END
+Types.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/Types.js
+END
+ModelMgr.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/ModelMgr.js
+END
+ReaderMgr.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/ReaderMgr.js
+END
+SortTypes.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/SortTypes.js
+END
+Association.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/Association.js
+END
+Errors.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/Errors.js
+END
+Validations.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/Validations.js
+END
+Batch.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/Batch.js
+END
+WriterMgr.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/WriterMgr.js
+END
+Field.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/Field.js
+END
+Node.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/Node.js
+END
+ProxyMgr.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/ProxyMgr.js
+END
+Request.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/Request.js
+END
+BelongsToAssociation.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/BelongsToAssociation.js
+END
+ResultSet.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/ResultSet.js
+END
+Store.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/Store.js
+END
+HasManyAssociation.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/HasManyAssociation.js
+END
+Tree.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/Tree.js
+END
+Operation.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/Operation.js
+END
+Model.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/Model.js
+END
+PolymorphicAssociation.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/PolymorphicAssociation.js
+END
+StoreMgr.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/StoreMgr.js
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/49/trunk/lib/touch/pkgs
+END
+widgets.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/49/trunk/lib/touch/pkgs/widgets.js
+END
+core.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/49/trunk/lib/touch/pkgs/core.js
+END
+dom.js
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/49/trunk/lib/touch/pkgs/dom.js
+END
+layouts.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/49/trunk/lib/touch/pkgs/layouts.js
+END
+plugins.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/49/trunk/lib/touch/pkgs/plugins.js
+END
+gestures.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/49/trunk/lib/touch/pkgs/gestures.js
+END

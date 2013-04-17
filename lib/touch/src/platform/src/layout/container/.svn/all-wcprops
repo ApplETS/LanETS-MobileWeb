@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/layout/container
+END
+CardLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/layout/container/CardLayout.js
+END
+AutoContainerLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/layout/container/AutoContainerLayout.js
+END
+ContainerLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/layout/container/ContainerLayout.js
+END
+FitLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/layout/container/FitLayout.js
+END

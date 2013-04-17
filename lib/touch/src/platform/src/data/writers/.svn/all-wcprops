@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/writers
+END
+JsonWriter.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/writers/JsonWriter.js
+END
+Writer.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/writers/Writer.js
+END
+XmlWriter.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/data/writers/XmlWriter.js
+END

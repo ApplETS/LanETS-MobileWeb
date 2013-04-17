@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util
+END
+Template.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/Template.js
+END
+Date.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/Date.js
+END
+Sorter.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/Sorter.js
+END
+HashMap.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/HashMap.js
+END
+MixedCollection.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/MixedCollection.js
+END
+Region.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/Region.js
+END
+Observable.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/Observable.js
+END
+Function.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/Function.js
+END
+Filter.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/Filter.js
+END
+Offset.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/Offset.js
+END
+Stateful.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/Stateful.js
+END
+Format.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/Format.js
+END
+Number.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/Number.js
+END
+Point.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/Point.js
+END
+DelayedTask.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/DelayedTask.js
+END
+LoadMask.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/LoadMask.js
+END
+AbstractManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/AbstractManager.js
+END
+GeoLocation.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/GeoLocation.js
+END
+XTemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/49/trunk/lib/touch/src/platform/src/util/XTemplate.js
+END
